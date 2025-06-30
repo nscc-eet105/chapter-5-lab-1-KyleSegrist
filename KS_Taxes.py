@@ -1,6 +1,7 @@
-# Code contains four problems.
+# Kyle Segrist
+# 6/30/2025
 STATE_TAX_RATE = .051
-COUNTY_TAX_RATE = .025
+COUNTY_TAX_RATE = .024 # incorrect tax rate was 2.5% KS
 
 
 def main():
